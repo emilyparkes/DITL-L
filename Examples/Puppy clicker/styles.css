@@ -1,0 +1,16 @@
+h1 {
+  font-size: 72px;
+  font-weight: bold
+}
+
+.red {
+  color: red
+}
+
+.centre {
+  text-align: center
+}
+
+.hidden {
+  display: none
+}
